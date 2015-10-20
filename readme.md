@@ -48,6 +48,10 @@ $ git add <your files>
 $ git commit -m"Thorough explanation of what changes you made since this wasn't your work" 
 $ git push origin master
 ```
+finish what you started working on, then push any additional commits
+
+File a Pull request with the commits in it that you want to share. Make sure that you include a good explanation in the pull requet of what this is , what its intended to do, add some nice language, rather than insulting their mistakes.
+
 
 
 
