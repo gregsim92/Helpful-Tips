@@ -54,4 +54,13 @@ File a Pull request with the commits in it that you want to share. Make sure tha
 
 
 
+### Creating shortcuts using aliases
+
+```shell
+$ git config --global alias.<new command> <original command>
+
+Git Aliases are a way to limit the number of keys necessary to execute a command. By creating an alias for an existing command, you make it easier for the computer to make sense of what you wish to execute.
+
+
+
 
